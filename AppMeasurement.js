@@ -10,8 +10,8 @@ s.campaign=s.Util.getQueryParam("cid");
 
 }
 
-s.linkTrackVars = "evar4,evar5"
-s.linkTrackEvents = "event4,event5,event6"
+s.linkTrackVars = "evar1,evar2,evar3,evar4"
+s.linkTrackEvents = "event1,event2,event3"
 
 s.trackExternalLinks =true 
 s.linkInternalFilters="elastic-pasteur-c0e930.netlify.app"
